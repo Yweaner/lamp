@@ -1,0 +1,2 @@
+# lamp
+changzhp's blog
